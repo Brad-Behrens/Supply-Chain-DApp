@@ -39,6 +39,7 @@ The DApp User Interface when running should look like...
 * Truffle: v5.1.1 (core: 5.1.1)
 * Node: v11.15.0
 * Web3.js: v1.2.2
+* Programme version: v1.0
 
 ## How to Setup
 
