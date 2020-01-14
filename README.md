@@ -32,7 +32,16 @@ The DApp User Interface when running should look like...
 
 ![truffle test](images/ftc_product_details.png)
 
-![truffle test](images/ftc_transaction_history.png)
+## Transaction History
+
+* Harvested - 
+* Processed - 
+* Packed - 
+* ForSale - 
+* Sold - 
+* Shipped - 
+* Received - 
+* Purchased - 
 
 ### Prerequisites
 
