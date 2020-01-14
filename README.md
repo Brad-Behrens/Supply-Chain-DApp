@@ -14,8 +14,8 @@ The coffee supply chain is outlined in the projects UML diagrams presented below
 
 ## UML Diagrams
 
-[Activity UML]()
-[Sequence UML]()
+[Activity UML](SupplyChain-UML/Activity_UML.png)
+[Sequence UML](SupplyChain-UML/Sequence_UML.png
 [State UML]()
 [Class UML]()
 
