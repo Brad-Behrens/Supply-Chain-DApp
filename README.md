@@ -14,6 +14,14 @@ The coffee supply chain is outlined in the projects UML diagrams presented below
 
 ## UML Diagrams
 
+## Rinkeby Contract Addresses
+
+* FarmerRole - 0x2EcC21768A4430Cd690f749C60631EbFb49F9401
+* DistributorRole - 0x18edC57cdD06f0ED4f42eC3CA9E2615C4E4Fdc6F
+* RetailerRole - 0x207b8bEf87e9fe8D1c3acF240125ED75d1df36Dd
+* ConsumerRole - 0xF385C48680A1896217F1Ef17bB06CC4866Ed7870
+* SupplyChain - 0x687d9d7DC3d6FEc175E815105a55B5510ADc6d56
+
 ## DApp User Interface
 
 The DApp User Interface when running should look like...
