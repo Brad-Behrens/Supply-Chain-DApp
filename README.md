@@ -34,20 +34,13 @@ The DApp User Interface when running should look like...
 
 ![truffle test](images/ftc_transaction_history.png)
 
-
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
 ### Prerequisites
 
-Please make sure you've already installed ganache-cli, Truffle and enabled MetaMask extension in your browser.
+* Truffle: v5.1.1 (core: 5.1.1)
+* Node: v11.15.0
+* Web3.js: v1.2.2
 
-```
-Give examples (to be clarified)
-```
-
-### Installing
+## How to Setup
 
 A step by step series of examples that tell you have to get a development env running
 
