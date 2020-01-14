@@ -34,10 +34,10 @@ The DApp User Interface when running should look like...
 
 ## Transaction History
 
-* Harvested - 
-* Processed - 
-* Packed - 
-* ForSale - 
+* Harvested - 0xa0228d11df3192ed3c92c7f1b54df2fcec0d04a37866a66a9eaf4ad6acd28d66
+* Processed - 0x3b55f8d8373ba59b2de96495fc04fa9ffa8aa8608630a560142182c0c835e429
+* Packed - 0x63cb7529423727c2280b56ffa749b119d3d43c00b2a3e48f891f94dc9e64c125
+* ForSale - 0xe86cb7fdd15d7a118c59d6a2d8396d22fd9675fb6cb17988a07e423526949ef6
 * Sold - 
 * Shipped - 
 * Received - 
