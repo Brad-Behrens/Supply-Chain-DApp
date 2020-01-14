@@ -1,6 +1,20 @@
-# Supply chain & data auditing
+# Supply Chain DApp
 
-This repository containts an Ethereum DApp that demonstrates a Supply Chain flow between a Seller and Buyer. The user story is similar to any commonly used supply chain process. A Seller can add items to the inventory system stored in the blockchain. A Buyer can purchase such items from the inventory system. Additionally a Seller can mark an item as Shipped, and similarly a Buyer can mark an item as Received.
+## Description
+This repository contains the source code for an Ethereum Supply Chain DApp which aims to demonstrate how a traditional supply chain can be conducted on the blockchain to track and verify the items journey from producer to consumer. The scenario presented here is a coffee supply chain.
+
+### Actors & Actions
+
+* Farmer - Harvests, processes, packs and lists coffee beans for sale.
+* Distributor - Purchases coffee beans from farmer and ships coffee bean to retailer.
+* Retailer - Receives coffee beans from distributor.
+* Consumer - Buys coffee beans from retailer.
+
+The coffee supply chain is outlined in the projects UML diagrams presented below.
+
+## UML Diagrams
+
+## DApp User Interface
 
 The DApp User Interface when running should look like...
 
