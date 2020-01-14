@@ -14,6 +14,11 @@ The coffee supply chain is outlined in the projects UML diagrams presented below
 
 ## UML Diagrams
 
+[Activity UML]()
+[Sequence UML]()
+[State UML]()
+[Class UML]()
+
 ## Rinkeby Contract Addresses
 
 * FarmerRole - 0x2EcC21768A4430Cd690f749C60631EbFb49F9401
