@@ -16,6 +16,8 @@ The coffee supply chain is outlined in the projects UML diagrams presented below
 
 ![Activity UML](SupplyChain-UML/Activity_UML.png)
 ![Sequence UML](SupplyChain-UML/Sequence_UML.png)
+![State UML](SupplyChain-UML/State_UML.png)
+![Class UML](SupplyChain-UML/Class_UML.png)
 
 ## Rinkeby Contract Addresses
 
